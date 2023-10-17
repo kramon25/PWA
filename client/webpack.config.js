@@ -24,7 +24,7 @@ module.exports = () => {
         title: "Webpack Plugin",
       }),
 
-      new GenerateSW(),
+      // new GenerateSW(),
       new WebpackPwaManifest({
         // TODO: Create a manifest.json:
         fingerprints: false,
