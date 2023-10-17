@@ -1,5 +1,9 @@
 # PWA Text Editor
 Heroku Link: https://intense-coast-77734-8ee4884b6758.herokuapp.com/
+
+
+![pwascreenshot](https://github.com/kramon25/PWA/assets/133789904/dba059ac-45f1-40cf-a360-f7c9bdaf53bd)
+
 ## Description
 
 J.A.T.E is a Progressive Web App (PWA) designed to operate within web browsers, even when offline, and it can be easily installed on your local device. It incorporates multiple data persistence methods to ensure uninterrupted functionality, irrespective of browser compatibility. J.A.T.E utilizes an IndexedDB database along with the idb package. You can access the production version of this application by referring to the provided documentation, as it is hosted on Heroku.
